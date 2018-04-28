@@ -2,6 +2,7 @@
   "symbolset": "30",
   "name": "Sea surface",
   "main icon": [
+    { "entity": "Unspecified Sea surface", "code": "000000", "remarks": "" },
     {
       "entity": "Military",
       "code": "110000",
