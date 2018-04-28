@@ -3,7 +3,6 @@ node_modules/
 
 milstd-umd.js
 
-
 milstd.js
 
-es6.js
+milstd.esm.js

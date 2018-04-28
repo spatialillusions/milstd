@@ -11,7 +11,7 @@ export default [
         name: "milstd"
       },
       {
-        file: "es6.js",
+        file: "milstd.esm.js",
         format: "es"
       }
     ],
