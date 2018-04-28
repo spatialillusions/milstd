@@ -7,7 +7,8 @@ export default [
     output: [
       {
         file: "milstd.js",
-        format: "es"
+        format: "umd",
+        name: "milstd"
       } /*,
       {
         file: "milstd-umd.js",
