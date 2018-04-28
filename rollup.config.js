@@ -9,12 +9,11 @@ export default [
         file: "milstd.js",
         format: "umd",
         name: "milstd"
-      } /*,
+      },
       {
-        file: "milstd-umd.js",
-        format: "umd",
-        name: "milstd"
-      }*/
+        file: "es6.js",
+        format: "es"
+      }
     ],
     plugins: [json()]
   }
