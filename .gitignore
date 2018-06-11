@@ -1,8 +1,8 @@
 
 node_modules/
 
-milstd-umd.js
+/milstd-umd.js
 
-milstd.js
+/milstd.js
 
-milstd.esm.js
+/milstd.esm.js
