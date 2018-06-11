@@ -1282,7 +1282,7 @@
   "modifier 1": [
     { "modifier": "Unspecified", "category": "", "code": "00", "remarks": "" },
     {
-      "modifier": "Tactical Satellite Communications",
+      "modifier": "Air Mobile/Air Assault",
       "category": "Capability",
       "code": "01",
       "remarks": ""
