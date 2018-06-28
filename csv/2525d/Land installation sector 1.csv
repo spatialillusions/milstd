@@ -1,0 +1,18 @@
+First Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Biological;CBRN Type;1;;
+Chemical ;CBRN Type;2;;
+Nuclear;CBRN Type;3;;
+Radiological;CBRN Type;4;;
+Decontamination;CBRN Type;5;;
+Coal;Electric Power Type;6;;
+Geothermal;Electric Power Type;7;;
+Hydroelectric; Electric Power Type;8;;
+Natural Gas;Electric Power Type;9;;
+Petroleum;Electric Power Type;10;;
+Civilian ;Operation;11;;
+Civilian Telephone;Telecommunication Type;12;;
+Civilian Television;Telecommunication Type;13;;
+Cyberspace;Capability;14;;
+{Reserved for future use};;15-99;;
+Version Extension Flag;;-;;

@@ -1,0 +1,16 @@
+Second Modifier;;;Category;Code;Remarks;
+Not Applicable;;;;0;;
+Heavy;;;Cargo/Transport Capacity;1;;
+Medium;;;Cargo/Transport Capacity;2;;
+Light;;;Cargo/Transport Capacity;3;;
+Boom–Only;;;Re-Fueling Capability;4;;
+Drogue–Only;;;Re-Fueling Capability;5;;
+Boom and Drogue;;;Re-Fueling Capability;6;;
+Close Range;;;Range;7;;
+Short Range;;;Range;8;;
+Medium Range;;;Range;9;;
+Long Range;;;Range;10;;
+Downlinked;;;Track Link Availability;11;;
+Cyberspace;;;Capability;12;;
+{Reserved for future use};;;;13-99;;
+Version Extension Flag;;;;-;;

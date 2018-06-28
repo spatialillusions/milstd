@@ -1,0 +1,12 @@
+First Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Air;Launch Origin;1;;
+Surface;Launch Origin;2;;
+Subsurface;Launch Origin;3;;
+Space;Launch Origin;4;;
+Anti–Ballistic;Missile Class;5;;
+Ballistic;Missile Class;6;;
+Cruise;Missile Class;7;;
+Interceptor;Missile Class;8;;
+{Reserved for future use};;09-99;;
+Version Extension Flag;;-;;

@@ -1,0 +1,13 @@
+Second Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Cyberspace;Capability;1;;
+Light;Capability;2;;
+Medium;Capability;3;;
+Railway;Capability;4;;
+Tracked;Capability;5;;
+Tractor Trailer;Capability;6;;
+Wheeled LTD;Capability;7;;
+Wheeled X;Capability;8;;
+Robotic;Capability;09 ;;
+{Reserved for future use};;0910-99;;
+Version Extension Flag;;-;;

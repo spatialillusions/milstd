@@ -1,0 +1,6 @@
+Entity;;Entity Type;Entity Subtype;Code;
+Unspecified;;;;0;
+Signal Intercept;;;;110000;
+;;Communications;;110100;
+;;Jammer;;110200;
+;;Radar;;110300;

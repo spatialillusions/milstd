@@ -1,0 +1,7 @@
+First Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Ballistic;Missile Class;1;;
+Space;Launch Origin;2;;
+Interceptor;Missile Class;3;;
+{Reserved for future use};;04-99;;
+Version Extension Flag;;-;;

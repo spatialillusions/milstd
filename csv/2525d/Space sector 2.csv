@@ -1,0 +1,9 @@
+Second Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Optical;Sensor;1;;
+Infrared;Sensor;2;;
+Radar;Sensor;3;;
+Signals Intelligence (SIGINT);Sensor;4;;
+Cyberspace;Capability;5;;
+{Reserved for future use};;06-99;;
+Version Extension Flag;;-;;

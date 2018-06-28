@@ -1,0 +1,11 @@
+First Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Low Earth Orbit (LEO);Orbit;1;;
+Medium Earth Orbit  (MEO);Orbit;2;;
+High Earth Orbit  (HEO);Orbit;3;;
+Geosynchronous Orbit (GSO);Orbit;4;;
+Geostationary Orbit (GO);Orbit;5;;
+Molniya Orbit (MO);Orbit;6;;
+Cyberspace;Capability;7;;
+{Reserved for future use};;08-99;;
+Version Extension Flag;;-;;

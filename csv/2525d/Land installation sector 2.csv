@@ -1,0 +1,13 @@
+First Modifier;Category;Code;Remarks;
+Unspecified;;0;;
+Biological Warfare Production;Capability;1;;
+Chemical Warfare Production;Capability;2;;
+Nuclear Warfare Production;Capability;3;;
+Radiological Warfare Production;Capability;4;;
+Atomic Energy Reactor;Capability;5;;
+Nuclear Material Production;Capability;6;;
+Nuclear Material Storage;Capability;7;;
+Weapons Grade Production;Capability;8;;
+Cyberspace;Capability;9;;
+{Reserved for future use};;10-99;;
+Version Extension Flag;;-;;
