@@ -1,7 +1,7 @@
 // Creates a js file with all standards
 
 import ms2525b from "./2525b.js";
-//import ms2525c from "./2525b-change2.js";
+import ms2525c from "./2525c.js";
 //import ms2525d from "./2525b-change2.js";
 //import app6b from "./2525b-change2.js";
 //import app6d from "./2525b-change2.js";
@@ -141,4 +141,4 @@ var app6d = {
 
 export { ms2525b, ms2525c, ms2525d, app6b, app6d };
 */
-export { ms2525b };
+export { ms2525b, ms2525c };
