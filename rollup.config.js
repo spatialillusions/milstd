@@ -1,9 +1,9 @@
-import json from "rollup-plugin-json";
+import string from "rollup-plugin-string";
 
 export default [
   {
     // Generate JSON for all standards
-    input: "JSON/milstd.js",
+    input: "src/index.js",
     output: [
       {
         file: "milstd.js",
@@ -15,6 +15,11 @@ export default [
         format: "es"
       }
     ],
-    plugins: [json()]
+    plugins: [
+      string({
+        // Required to be specified
+        include: "**/*.tsv"
+      })
+    ]
   }
 ];
