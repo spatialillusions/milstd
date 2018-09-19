@@ -13,6 +13,7 @@ import mil_std_2525b_mootw from "./../tsv-tables/2525b-change2/mootw.tsv";
 
 export default {
   WAR: {
+    name: "WARFIGHTING",
     SPC: {
       name: "SPACE",
       mainIcon: tsv2json(mil_std_2525b_space)
@@ -22,7 +23,7 @@ export default {
       mainIcon: tsv2json(mil_std_2525b_air)
     },
     GRDTRK: {
-      name: "GROUND",
+      name: "GROUND UNIT",
       mainIcon: tsv2json(mil_std_2525b_ground)
     },
     SSUF: {

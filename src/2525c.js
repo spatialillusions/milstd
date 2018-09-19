@@ -2,7 +2,10 @@ import tsv2json from "./tsv2json.js";
 
 import mil_std_2525c_space from "./../tsv-tables/2525c/space.tsv";
 import mil_std_2525c_air from "./../tsv-tables/2525c/air.tsv";
-import mil_std_2525c_ground from "./../tsv-tables/2525c/ground.tsv";
+import mil_std_2525c_ground_unit from "./../tsv-tables/2525c/ground-unit.tsv";
+import mil_std_2525c_ground_equipment from "./../tsv-tables/2525c/ground-equipment.tsv";
+import mil_std_2525c_ground_installation from "./../tsv-tables/2525c/ground-installation.tsv";
+
 import mil_std_2525c_sea_surface from "./../tsv-tables/2525c/sea-surface.tsv";
 import mil_std_2525c_sub_surface from "./../tsv-tables/2525c/sub-surface.tsv";
 import mil_std_2525c_sof from "./../tsv-tables/2525c/sof.tsv";
@@ -14,6 +17,7 @@ import mil_std_2525c_ems from "./../tsv-tables/2525c/emergency-management.tsv";
 
 export default {
   WAR: {
+    name: "WARFIGHTING",
     SPC: {
       name: "SPACE",
       mainIcon: tsv2json(mil_std_2525c_space)
@@ -22,9 +26,17 @@ export default {
       name: "AIR",
       mainIcon: tsv2json(mil_std_2525c_air)
     },
-    GRDTRK: {
-      name: "GROUND",
-      mainIcon: tsv2json(mil_std_2525c_ground)
+    GRDTRK_UNT: {
+      name: "GROUND UNIT",
+      mainIcon: tsv2json(mil_std_2525c_ground_unit)
+    },
+    GRDTRK_EQT: {
+      name: "GROUND EQUIPMENT",
+      mainIcon: tsv2json(mil_std_2525c_ground_equipment)
+    },
+    GRDTRK_INS: {
+      name: "GROUND INSTALLATION",
+      mainIcon: tsv2json(mil_std_2525c_ground_installation)
     },
     SSUF: {
       name: "SEA SURFACE",
