@@ -1,16 +1,10 @@
 # MILSTD Military symbol standards in JSON
 
-This repository contains the following standards in JSON format for easy reuse in other projects.
+You should migrate to using the following two repositories instead:
 
-* MIL-STD-2525B change 2
+* https://github.com/spatialillusions/mil-std-2525
 
-* MIL-STD-2525C
-
-* MIL-STD-2525D change 1
-
-* APP-6 B
-
-* APP-6 D
+* https://github.com/spatialillusions/stanag-app6
 
 ## License
 
